@@ -67,6 +67,7 @@ class Owner
         o.mood = "nervous"
         end
       end
+    #below I fully reset -- but how would I permanently "clear" these arrays?
     @pets = {fishes: [], dogs: [], cats: []}
   end
 
